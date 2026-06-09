@@ -1,0 +1,6 @@
+{
+  "name": "One National Ink & Lens",
+  "description": "Premium Fusion Studio for fine art, culture, and photographic lens. Incorporates high-end portfolios, ZAR/USD pricing selector, interactive vision boarding, and user image reference uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
